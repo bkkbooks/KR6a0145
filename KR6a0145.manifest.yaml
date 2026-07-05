@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0145_000.yaml, hash: 'sha256:9c43f164cc5fc069f2f1a2bf8cbaf2136dffea190a0bbd840c9c872bc929a7b0'}
-  - {seq: 1, filename: KR6a0145_001.yaml, hash: 'sha256:495a2f4dd4715e00eee3d75af5c617a219b18f396fdf1264ce2ae45cabfe2aa3'}
+  - {seq: 1, filename: KR6a0145_001.yaml, hash: 'sha256:0b98cfbe22c06c618c4ebeb9d80977970dfd7cdc2be844ade1ee45ff4e6797cc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0145_001.markers.yaml, hash: 'sha256:d45250737ca2028d9f85767522872ae3c5620f5a10265b01e29ba36c518027c1'}
+  - {seq: 0, role: markers, filename: assets/KR6a0145_000.markers.yaml, hash: 'sha256:a526b91f03eaa5bc47da93571fcc77426a43d2349f60681ad9dc8e87173350de'}
+  - {seq: 1, role: markers, filename: assets/KR6a0145_001.markers.yaml, hash: 'sha256:d2f8daedc92823e90c56026ea717658bbd96fb7191fcb37ff6bf327f2dcc639a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說玉耶女經
   type: juan
   level: 1
-hash: sha256:6d571ca9b4640a3bc7645ad7f3e2c4fa8fdb5b73253fb875650107e7b20c11c5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4eb5956284ce8a3e8a2c7130447745019378e442439c1aa8c863d8c63fdc19ae
